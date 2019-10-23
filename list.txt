@@ -5,3 +5,5 @@ turtle
 zebra
 dog
 cat
+Jellyfish
+bulldog
